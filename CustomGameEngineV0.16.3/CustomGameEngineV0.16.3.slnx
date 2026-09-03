@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SMFL_ConsoleApplication1/SMFL_ConsoleApplication1.vcxproj" Id="62660abd-fad1-499a-88ef-f41b62d446da" />
+</Solution>
