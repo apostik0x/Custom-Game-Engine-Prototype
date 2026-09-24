@@ -24,8 +24,7 @@ private:
     sf::Clock m_clock;
     sf::View m_camera;
 
-    Entity m_box1;
-    Entity m_box2;
+    std::vector<std::unique_ptr<Entity>> m_entities;
     
     Input m_input;  
 
