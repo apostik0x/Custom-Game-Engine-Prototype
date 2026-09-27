@@ -39,3 +39,6 @@ Debug/
 Release/
 x64/
 x86/
+# Allow SFML dependencies in the External folder
+!External/
+!External/**/*
